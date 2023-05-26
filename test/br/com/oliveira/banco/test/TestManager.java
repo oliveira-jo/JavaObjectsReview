@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package app;
+package br.com.oliveira.banco.test;
 
-import entities.Manager;
+import br.com.oliveira.banco.entities.Manager;
 
 /**
  *

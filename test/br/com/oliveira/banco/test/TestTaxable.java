@@ -1,9 +1,9 @@
 /*
  */
-package app;
+package br.com.oliveira.banco.test;
 
-import entities.CurrentAccaunt;
-import entities.Taxable;
+import br.com.oliveira.banco.entities.CurrentAccaunt;
+import br.com.oliveira.banco.system.Taxable;
 
 /**
  *

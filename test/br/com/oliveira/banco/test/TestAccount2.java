@@ -1,11 +1,11 @@
 /*
  * Rewritten Methods, each with its rate 
  */
-package app;
+package br.com.oliveira.banco.test;
 
-import entities.Account;
-import entities.CurrentAccaunt;
-import entities.SavingAccaunt;
+import br.com.oliveira.banco.entities.Account;
+import br.com.oliveira.banco.entities.CurrentAccaunt;
+import br.com.oliveira.banco.entities.SavingAccaunt;
 
 /**
  *

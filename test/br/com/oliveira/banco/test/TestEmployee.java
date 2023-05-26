@@ -1,8 +1,8 @@
 /*
  */
-package app;
+package br.com.oliveira.banco.test;
 
-import entities.Employee;
+import br.com.oliveira.banco.entities.Employee;
 
 /**
  *

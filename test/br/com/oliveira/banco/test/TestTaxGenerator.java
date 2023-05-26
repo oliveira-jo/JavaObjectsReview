@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package app;
+package br.com.oliveira.banco.test;
 
-import entities.CurrentAccaunt;
-import entities.LifeInsurance;
-import entities.TaxGenerator;
+import br.com.oliveira.banco.entities.CurrentAccaunt;
+import br.com.oliveira.banco.entities.LifeInsurance;
+import br.com.oliveira.banco.system.TaxGenerator;
 
 /**
  *

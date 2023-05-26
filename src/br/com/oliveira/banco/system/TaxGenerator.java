@@ -1,7 +1,7 @@
 /*
  * generate impost with all tax about products that need to calculet
  */
-package entities;
+package br.com.oliveira.banco.system;
 
 /**
  *

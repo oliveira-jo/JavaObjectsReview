@@ -1,6 +1,8 @@
 /*
  */
-package entities;
+package br.com.oliveira.banco.entities;
+
+import br.com.oliveira.banco.system.InsufficientBalanceException;
 
 /**
  *

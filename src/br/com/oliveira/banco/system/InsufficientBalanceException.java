@@ -1,6 +1,6 @@
 /*
  */
-package entities;
+package br.com.oliveira.banco.system;
 
 /**
  *
